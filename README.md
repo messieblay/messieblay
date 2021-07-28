@@ -5,9 +5,11 @@
 
 - ⚡Games I've worked on **Kiurinagas Revenge, Numantia, 1971 Project Helios, Pocoyo Party and a new game not announced yet**
 
-- 👨‍💻 What I'm doing here [In this git you can found some tools that I made over the years and I use in every game I make](In this git you can found some tools that I made over the years and I use in every game I make)
-
 - 📫 How to reach me **marcoblay@gmail.com**
+
+- 👨‍💻 What I'm doing here **In this git you can found some tools that I made over the years and I use in every game I make**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
