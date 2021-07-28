@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm @messieblay</h1>
 <h3 align="center">A passionate game developer focused on game engine and tools</h3>
 
-- 🔭 I’m currently working on **Secret project at RecoTechnology**
+- 🔭 I’m currently working at **RecoTechnology**
+
+- ⚡Games I've worked on **Kiurinagas Revenge, Numantia, 1971 Project Helios, Pocoyo Party and a new game not announced yet**
 
 - 👨‍💻 What I'm doing here [In this git you can found some tools that I made over the years and I use in every game I make](In this git you can found some tools that I made over the years and I use in every game I make)
 
